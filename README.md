@@ -25,7 +25,7 @@ This project implements a simple command-line to-do list application in Python. 
 **How to Use:**
 
 1. Clone this repository to your local machine.
-2. Run the `main.py` script from the terminal.
+2. Run the `toDoList.py` script from the terminal.
 3. Follow the on-screen instructions to interact with the to-do list.
 
 **Future Enhancements:**
